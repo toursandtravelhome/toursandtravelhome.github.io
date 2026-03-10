@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tours &amp; Travel Home - Privacy and Legal Info</title>
+  Tours &amp; Travel Home - Privacy and Legal Info
 </head>
 <body>
 
